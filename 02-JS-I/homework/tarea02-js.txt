@@ -1,5 +1,10 @@
 * Variables
-	* Strings
-	* Funciones (argumentos, `return`)
-	* Declaraciones `if`
-	* Valores booleanos (`true`, `false`)
+Es guardar algo para usarlo despues. 	
+* Strings
+son grupos de letras y siempre van dentro de comillas. 
+* Funciones (argumentos, `return`)
+La funcion es la herramienta que nos permite hacer cosas con las variables. Return nos permite sacar algun tipo de dato de esa funcion. 
+* Declaraciones `if`
+If significa "si una cosa es "algo", entonces esto otro es "esto". Si juan tiene 21 entonces juan es mayor de edad.
+* Valores booleanos (`true`, `false`)
+Que algo tiene dos opciones, verdadero o falso, si o no.
