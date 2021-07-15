@@ -1,0 +1,9 @@
+for:
+
+&&:
+Significa que se compara una cosa con otra y se averigua si una es verdadera o ambas son verdaderas. En este caso ambas son verderas o falsas. 1 es numero Y 2 es numero. Son numeros. 
+
+||:
+Significa O y quiere decir que no necesita que las dos expresiones sean verdaderas, con una alcanza, 1 es numero O A es letra. Uno de ellos es numero. 
+!:
+Significa NO, invierte el resultado. NO verdadero igual a falso.
