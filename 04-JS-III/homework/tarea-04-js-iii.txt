@@ -1,0 +1,2 @@
+que es un array?
+Un array es un listado de cosas con las que se puede trabajar. A ese listado se le pueden agregar y sacar cosas o usar las que estan para hacer cosas.
